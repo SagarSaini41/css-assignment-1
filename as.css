@@ -1,0 +1,47 @@
+h1{
+    color: red;
+   
+}
+h2{
+    font-style: italic;
+    color: rgb(31, 236, 4)
+}
+.sagar{text-decoration: line-through;
+
+}
+.nilhil{
+
+    text-decoration-line: underline;
+}
+.dep{
+    background-color: yellow;
+    
+}
+.nikhil{
+    font-style: italic;
+    text-decoration-line: underline;
+}
+h1{
+    color: red;
+
+}
+.red{
+    letter-spacing: 4px;
+    color: brown;
+}
+.himanshu{
+    background-color: yellow;
+}
+#saini{
+    color: brown;
+}
+h6{
+    color: brown;
+}
+h4{
+    font-style: italic;
+    color: brown;
+}
+.manish{
+    background-color: yellow;
+}
